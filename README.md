@@ -17,7 +17,7 @@ To run this project, you need a C compiler installed on your system.
 ### Steps:
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/Hospital-Management-System.git
+   git clone https://github.com/fahadhasan93/Hospital-Management-System.git
    cd Hospital-Management-System
    ```
 2. Compile the program using GCC:
